@@ -1,6 +1,6 @@
 [[redirects]]
    from = "/*"
-   to = "https://json-server.herokuapp.com/"
+   to = "https://json-server-hanwenguan.herokuapp.com/"
    status = 200
 
  [[redirects]]
